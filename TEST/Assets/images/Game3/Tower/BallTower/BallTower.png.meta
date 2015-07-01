@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: dc2f32eadf3504d30986e6c2edcd5c4f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BallTower_0
+    21300002: BallTower_1
+    21300004: BallTower_2
+    21300006: BallTower_3
+    21300008: BallTower_4
+    21300010: BallTower_5
+    21300012: BallTower_6
+    21300014: BallTower_7
+    21300016: BallTower_8
+    21300018: BallTower_9
+    21300020: BallTower_10
+    21300022: BallTower_11
+    21300024: BallTower_12
+    21300026: BallTower_13
+    21300028: BallTower_14
+    21300030: BallTower_15
+    21300032: BallTower_16
+    21300034: BallTower_17
+    21300036: BallTower_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BallTower_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 441
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 442
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 441
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 442
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 350
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 350
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 351
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_7
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 350
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 255
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 255
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 256
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_11
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 255
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 152
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 152
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 152
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_15
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 152
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 51
+        width: 66
+        height: 57
+      alignment: 9
+      pivot: {x: .409148604, y: .342205256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 41
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BallTower_18
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 90
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

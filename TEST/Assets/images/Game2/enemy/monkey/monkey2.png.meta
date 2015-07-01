@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 504d175f74fe9463cb1eb605104c40e7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: monkey2_0
+    21300002: monkey2_1
+    21300004: monkey2_2
+    21300006: monkey2_3
+    21300008: monkey2_4
+    21300010: monkey2_5
+    21300012: monkey2_6
+    21300014: monkey2_7
+    21300016: monkey2_8
+    21300018: monkey2_9
+    21300020: monkey2_10
+    21300022: monkey2_11
+    21300024: monkey2_12
+    21300026: monkey2_13
+    21300028: monkey2_14
+    21300030: monkey2_15
+    21300032: monkey2_16
+    21300034: monkey2_17
+    21300036: monkey2_18
+    21300038: monkey2_19
+    21300040: monkey2_20
+    21300042: monkey2_21
+    21300044: monkey2_22
+    21300046: monkey2_23
+    21300048: monkey2_24
+    21300050: monkey2_25
+    21300052: monkey2_26
+    21300054: monkey2_27
+    21300056: monkey2_28
+    21300058: monkey2_29
+    21300060: monkey2_30
+    21300062: monkey2_31
+    21300064: monkey2_32
+    21300066: monkey2_33
+    21300068: monkey2_34
+    21300070: monkey2_35
+    21300072: monkey2_36
+    21300074: monkey2_37
+    21300076: monkey2_38
+    21300078: monkey2_39
+    21300080: monkey2_40
+    21300082: monkey2_41
+    21300084: monkey2_42
+    21300086: monkey2_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: monkey2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 861
+        width: 176
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 883
+        width: 178
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 890
+        width: 174
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_3
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 890
+        width: 172
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 861
+        width: 170
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_5
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 888
+        width: 94
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 725
+        width: 167
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 750
+        width: 168
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 755
+        width: 169
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_9
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 754
+        width: 166
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_10
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 700
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 606
+        width: 157
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 606
+        width: 160
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 612
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_14
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 733
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 596
+        width: 156
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 462
+        width: 156
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 461
+        width: 153
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_18
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 469
+        width: 154
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_19
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 559
+        width: 154
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_20
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 558
+        width: 128
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 452
+        width: 156
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 318
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 314
+        width: 154
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_24
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 323
+        width: 151
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_25
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 421
+        width: 157
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_26
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 412
+        width: 152
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 315
+        width: 156
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_28
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 325
+        width: 150
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_29
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 278
+        width: 137
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 168
+        width: 150
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 172
+        width: 163
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_32
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 175
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 171
+        width: 235
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_34
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 178
+        width: 118
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_35
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 178
+        width: 119
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 139
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_37
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 12
+        width: 140
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 16
+        width: 91
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_39
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 20
+        width: 143
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_40
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 20
+        width: 143
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_41
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 24
+        width: 92
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_42
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 33
+        width: 121
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: monkey2_43
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 740
+        width: 105
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 61c69f3e6a4bb4edabb3ea5666aac8dd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: icetower_0
+    21300002: icetower_1
+    21300004: icetower_2
+    21300006: icetower_3
+    21300008: icetower_4
+    21300010: icetower_5
+    21300012: icetower_6
+    21300014: icetower_7
+    21300016: icetower_8
+    21300018: icetower_9
+    21300020: icetower_10
+    21300022: icetower_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: icetower_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 474
+        width: 183
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icetower_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 95
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icetower_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 410
+        width: 93
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icetower_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 431
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icetower_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 319
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icetower_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 309
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icetower_6
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 198
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icetower_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 101
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icetower_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 94
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icetower_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 97
+        width: 83
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icetower_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 6
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icetower_11
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 256
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

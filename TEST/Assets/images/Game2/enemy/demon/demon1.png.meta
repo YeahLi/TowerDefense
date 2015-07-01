@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: fb562d23d63214e8b9f5788c7eb1d473
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: demon1_0
+    21300002: demon1_1
+    21300004: demon1_2
+    21300006: demon1_3
+    21300008: demon1_4
+    21300010: demon1_5
+    21300012: demon1_6
+    21300014: demon1_7
+    21300016: demon1_8
+    21300018: demon1_9
+    21300020: demon1_10
+    21300022: demon1_11
+    21300024: demon1_12
+    21300026: demon1_13
+    21300028: demon1_14
+    21300030: demon1_15
+    21300032: demon1_16
+    21300034: demon1_17
+    21300036: demon1_18
+    21300038: demon1_19
+    21300040: demon1_20
+    21300042: demon1_21
+    21300044: demon1_22
+    21300046: demon1_23
+    21300048: demon1_24
+    21300050: demon1_25
+    21300052: demon1_26
+    21300054: demon1_27
+    21300056: demon1_28
+    21300058: demon1_29
+    21300060: demon1_30
+    21300062: demon1_31
+    21300064: demon1_32
+    21300066: demon1_33
+    21300068: demon1_34
+    21300070: demon1_35
+    21300072: demon1_36
+    21300074: demon1_37
+    21300076: demon1_38
+    21300078: demon1_39
+    21300080: demon1_40
+    21300082: demon1_41
+    21300084: demon1_42
+    21300086: demon1_43
+    21300088: demon1_44
+    21300090: demon1_45
+    21300092: demon1_46
+    21300094: demon1_47
+    21300096: demon1_48
+    21300098: demon1_49
+    21300100: demon1_50
+    21300102: demon1_51
+    21300104: demon1_52
+    21300106: demon1_53
+    21300108: demon1_54
+    21300110: demon1_55
+    21300112: demon1_56
+    21300114: demon1_57
+    21300116: demon1_58
+    21300118: demon1_59
+    21300120: demon1_60
+    21300122: demon1_61
+    21300124: demon1_62
+    21300126: demon1_63
+    21300128: demon1_64
+    21300130: demon1_65
+    21300132: demon1_66
+    21300134: demon1_67
+    21300136: demon1_68
+    21300138: demon1_69
+    21300140: demon1_70
+    21300142: demon1_71
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: demon1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1883
+        width: 130
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1955
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1867
+        width: 143
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1851
+        width: 138
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_4
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1807
+        width: 134
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1825
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1743
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1727
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1723
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1717
+        width: 144
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_10
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1683
+        width: 145
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1613
+        width: 146
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1589
+        width: 148
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1585
+        width: 142
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_14
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1547
+        width: 142
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_15
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1605
+        width: 134
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1453
+        width: 144
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1457
+        width: 148
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_18
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1465
+        width: 146
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1477
+        width: 146
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_20
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1409
+        width: 142
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_21
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1455
+        width: 104
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1197
+        width: 148
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1319
+        width: 146
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1171
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_25
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1427
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_26
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1271
+        width: 150
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_27
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1309
+        width: 100
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1049
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_29
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1041
+        width: 155
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1029
+        width: 148
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_31
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1083
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_32
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1161
+        width: 150
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_33
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1161
+        width: 106
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_34
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 955
+        width: 150
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_35
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 939
+        width: 155
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_36
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 933
+        width: 152
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_37
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 935
+        width: 144
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_38
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1011
+        width: 146
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_39
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1011
+        width: 90
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 815
+        width: 156
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_41
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 795
+        width: 154
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_42
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 791
+        width: 148
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_43
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 783
+        width: 150
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_44
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 867
+        width: 154
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 673
+        width: 159
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_46
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 671
+        width: 156
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 705
+        width: 155
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_48
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 723
+        width: 155
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_49
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 585
+        width: 154
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_50
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 521
+        width: 154
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_51
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 521
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_52
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 555
+        width: 154
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_53
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 529
+        width: 155
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_54
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 447
+        width: 156
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_55
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 375
+        width: 160
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_56
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 407
+        width: 154
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_57
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 289
+        width: 158
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_58
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 389
+        width: 158
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_59
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 297
+        width: 150
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_60
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 257
+        width: 167
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_61
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 289
+        width: 166
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_62
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 159
+        width: 119
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_63
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 3
+        width: 174
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_64
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1
+        width: 108
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 175
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_66
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 151
+        width: 168
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_67
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1585
+        width: 129
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_68
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1680
+        width: 125
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_69
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1353
+        width: 134
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_70
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1334
+        width: 133
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: demon1_71
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1340
+        width: 139
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

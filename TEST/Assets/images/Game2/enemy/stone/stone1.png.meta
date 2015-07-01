@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 3a2af0ab90b6f497891a91f23875aae6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stone1_0
+    21300002: stone1_1
+    21300004: stone1_2
+    21300006: stone1_3
+    21300008: stone1_4
+    21300010: stone1_5
+    21300012: stone1_6
+    21300014: stone1_7
+    21300016: stone1_8
+    21300018: stone1_9
+    21300020: stone1_10
+    21300022: stone1_11
+    21300024: stone1_12
+    21300026: stone1_13
+    21300028: stone1_14
+    21300030: stone1_15
+    21300032: stone1_16
+    21300034: stone1_17
+    21300036: stone1_18
+    21300038: stone1_19
+    21300040: stone1_20
+    21300042: stone1_21
+    21300044: stone1_22
+    21300046: stone1_23
+    21300048: stone1_24
+    21300050: stone1_25
+    21300052: stone1_26
+    21300054: stone1_27
+    21300056: stone1_28
+    21300058: stone1_29
+    21300060: stone1_30
+    21300062: stone1_31
+    21300064: stone1_32
+    21300066: stone1_33
+    21300068: stone1_34
+    21300070: stone1_35
+    21300072: stone1_36
+    21300074: stone1_37
+    21300076: stone1_38
+    21300078: stone1_39
+    21300080: stone1_40
+    21300082: stone1_41
+    21300084: stone1_42
+    21300086: stone1_43
+    21300088: stone1_44
+    21300090: stone1_45
+    21300092: stone1_46
+    21300094: stone1_47
+    21300096: stone1_48
+    21300098: stone1_49
+    21300100: stone1_50
+    21300102: stone1_51
+    21300104: stone1_52
+    21300106: stone1_53
+    21300108: stone1_54
+    21300110: stone1_55
+    21300112: stone1_56
+    21300114: stone1_57
+    21300116: stone1_58
+    21300118: stone1_59
+    21300120: stone1_60
+    21300122: stone1_61
+    21300124: stone1_62
+    21300126: stone1_63
+    21300128: stone1_64
+    21300130: stone1_65
+    21300132: stone1_66
+    21300134: stone1_67
+    21300136: stone1_68
+    21300138: stone1_69
+    21300140: stone1_70
+    21300142: stone1_71
+    21300144: stone1_72
+    21300146: stone1_73
+    21300148: stone1_74
+    21300150: stone1_75
+    21300152: stone1_76
+    21300154: stone1_77
+    21300156: stone1_78
+    21300158: stone1_79
+    21300160: stone1_80
+    21300162: stone1_81
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: stone1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 923
+        width: 146
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 918
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 917
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 917
+        width: 75
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_4
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 918
+        width: 118
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_5
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 919
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_6
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 915
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_7
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 918
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_8
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 918
+        width: 74
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_9
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 918
+        width: 75
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 818
+        width: 140
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 807
+        width: 133
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 798
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 802
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 805
+        width: 85
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 806
+        width: 81
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 807
+        width: 109
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 806
+        width: 81
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_18
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 813
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_19
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 814
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 725
+        width: 130
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 716
+        width: 132
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 693
+        width: 127
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_23
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 694
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_24
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 694
+        width: 102
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_25
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 694
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_26
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 699
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_27
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 706
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_28
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 709
+        width: 76
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 614
+        width: 127
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 614
+        width: 127
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 579
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 585
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_33
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 585
+        width: 111
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 581
+        width: 99
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_35
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 582
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_36
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 593
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_37
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 599
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_38
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 602
+        width: 76
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 126
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 510
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_41
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 474
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_42
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 478
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_43
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 479
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_44
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 474
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_45
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 487
+        width: 81
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_46
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 490
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 112
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 410
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_49
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 403
+        width: 109
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_50
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 367
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_51
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 371
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_52
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 375
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_53
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 381
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_54
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 386
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_55
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 394
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 297
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_57
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 302
+        width: 111
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_58
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 297
+        width: 106
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_59
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 298
+        width: 108
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_60
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 263
+        width: 97
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_61
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 271
+        width: 105
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_62
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 274
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_63
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 279
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 189
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_65
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 195
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_66
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 195
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 191
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_68
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 190
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_69
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 163
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_70
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 166
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_71
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 167
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_72
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 177
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_74
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 83
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_75
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 90
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_76
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 85
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_77
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 90
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_78
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 62
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_79
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 66
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_80
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 70
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: stone1_81
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 79
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,1096 @@
+fileFormatVersion: 2
+guid: cde851ccdefeb491fb0f1659df264ee6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kulou_0
+    21300002: kulou_1
+    21300004: kulou_2
+    21300006: kulou_3
+    21300008: kulou_4
+    21300010: kulou_5
+    21300012: kulou_6
+    21300014: kulou_7
+    21300016: kulou_8
+    21300018: kulou_9
+    21300020: kulou_10
+    21300022: kulou_11
+    21300024: kulou_12
+    21300026: kulou_13
+    21300028: kulou_14
+    21300030: kulou_15
+    21300032: kulou_16
+    21300034: kulou_17
+    21300036: kulou_18
+    21300038: kulou_19
+    21300040: kulou_20
+    21300042: kulou_21
+    21300044: kulou_22
+    21300046: kulou_23
+    21300048: kulou_24
+    21300050: kulou_25
+    21300052: kulou_26
+    21300054: kulou_27
+    21300056: kulou_28
+    21300058: kulou_29
+    21300060: kulou_30
+    21300062: kulou_31
+    21300064: kulou_32
+    21300066: kulou_33
+    21300068: kulou_34
+    21300070: kulou_35
+    21300072: kulou_36
+    21300074: kulou_37
+    21300076: kulou_38
+    21300078: kulou_39
+    21300080: kulou_40
+    21300082: kulou_41
+    21300084: kulou_42
+    21300086: kulou_43
+    21300088: kulou_44
+    21300090: kulou_45
+    21300092: kulou_46
+    21300094: kulou_47
+    21300096: kulou_48
+    21300098: kulou_49
+    21300100: kulou_50
+    21300102: kulou_51
+    21300104: kulou_52
+    21300106: kulou_53
+    21300108: kulou_54
+    21300110: kulou_55
+    21300112: kulou_56
+    21300114: kulou_57
+    21300116: kulou_58
+    21300118: kulou_59
+    21300120: kulou_60
+    21300122: kulou_61
+    21300124: kulou_62
+    21300126: kulou_63
+    21300128: kulou_64
+    21300130: kulou_65
+    21300132: kulou_66
+    21300134: kulou_67
+    21300136: kulou_68
+    21300138: kulou_69
+    21300140: kulou_70
+    21300142: kulou_71
+    21300144: kulou_72
+    21300146: kulou_73
+    21300148: kulou_74
+    21300150: kulou_75
+    21300152: kulou_76
+    21300154: kulou_77
+    21300156: kulou_78
+    21300158: kulou_79
+    21300160: kulou_80
+    21300162: kulou_81
+    21300164: kulou_82
+    21300166: kulou_83
+    21300168: kulou_84
+    21300170: kulou_85
+    21300172: kulou_86
+    21300174: kulou_87
+    21300176: kulou_88
+    21300178: kulou_89
+    21300180: kulou_90
+    21300182: kulou_91
+    21300184: kulou_92
+    21300186: kulou_93
+    21300188: kulou_94
+    21300190: kulou_95
+    21300192: kulou_96
+    21300194: kulou_97
+    21300196: kulou_98
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: kulou_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 909
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 907
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 898
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 895
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 875
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 942
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_6
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 950
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_7
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 937
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 811
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 798
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 799
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 852
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_12
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 851
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_13
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 845
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 810
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 760
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_16
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 761
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_17
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 754
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 807
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_19
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 740
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 715
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_21
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 699
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_22
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 699
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 687
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 669
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_25
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 670
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_26
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 664
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 650
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 646
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 613
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_30
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 602
+        width: 61
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 602
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_32
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 687
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_33
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 694
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_34
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 664
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 576
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_36
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 576
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_37
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 633
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_38
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 558
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 558
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 506
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 505
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 484
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 484
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_45
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 479
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_46
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 471
+        width: 64
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_47
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 467
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_48
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 494
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 408
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 400
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_51
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 463
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_52
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 387
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_53
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 379
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_54
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 377
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 365
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_56
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 304
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_57
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 296
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_58
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 296
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_59
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 294
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_60
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 286
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_61
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 285
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 308
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_63
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 241
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_64
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 206
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_65
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 200
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_66
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 199
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_67
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 192
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_68
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 191
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_69
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 189
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_70
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 207
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_71
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 106
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_72
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 104
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_73
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 103
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_74
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 98
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_75
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 97
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_76
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 96
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_77
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 95
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_78
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 89
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_79
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_80
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_81
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_82
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_83
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_84
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_86
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 592
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_87
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 784
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_88
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 941
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_89
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 306
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 203
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_92
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 83
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: kulou_94
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 391
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

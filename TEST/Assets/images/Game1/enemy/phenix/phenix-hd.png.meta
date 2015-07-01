@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 91b1abad32a5d45b5811e2cff36cd6d0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: phenix-hd_0
+    21300002: phenix-hd_1
+    21300004: phenix-hd_2
+    21300006: phenix-hd_3
+    21300008: phenix-hd_4
+    21300010: phenix-hd_5
+    21300012: phenix-hd_6
+    21300014: phenix-hd_7
+    21300016: phenix-hd_8
+    21300018: phenix-hd_9
+    21300020: phenix-hd_10
+    21300022: phenix-hd_11
+    21300024: phenix-hd_12
+    21300026: phenix-hd_13
+    21300028: phenix-hd_14
+    21300030: phenix-hd_15
+    21300032: phenix-hd_16
+    21300034: phenix-hd_17
+    21300036: phenix-hd_18
+    21300038: phenix-hd_19
+    21300040: phenix-hd_20
+    21300042: phenix-hd_21
+    21300044: phenix-hd_22
+    21300046: phenix-hd_23
+    21300048: phenix-hd_24
+    21300050: phenix-hd_25
+    21300052: phenix-hd_26
+    21300054: phenix-hd_27
+    21300056: phenix-hd_28
+    21300058: phenix-hd_29
+    21300060: phenix-hd_30
+    21300062: phenix-hd_31
+    21300064: phenix-hd_32
+    21300066: phenix-hd_33
+    21300068: phenix-hd_34
+    21300070: phenix-hd_35
+    21300072: phenix-hd_36
+    21300074: phenix-hd_37
+    21300076: phenix-hd_38
+    21300078: phenix-hd_39
+    21300080: phenix-hd_40
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: phenix-hd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 850
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 850
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 850
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 850
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 850
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 850
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 850
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 680
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 680
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 680
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 680
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 680
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_13
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 680
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 510
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 510
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 510
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 510
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 510
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 510
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 340
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 340
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 340
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_25
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 340
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 340
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 340
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 170
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 170
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 170
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_32
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 170
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_33
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 170
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_34
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 170
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: phenix-hd_40
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 144
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

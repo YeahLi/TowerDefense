@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 2f42fcde885e44e21b43411b29642f78
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Map11_12_obj-hd_0
+    21300002: Map11_12_obj-hd_1
+    21300004: Map11_12_obj-hd_2
+    21300006: Map11_12_obj-hd_3
+    21300008: Map11_12_obj-hd_4
+    21300010: Map11_12_obj-hd_5
+    21300012: Map11_12_obj-hd_6
+    21300014: Map11_12_obj-hd_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Map11_12_obj-hd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 224
+        height: 302
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Map11_12_obj-hd_1
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 228
+        width: 213
+        height: 284
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Map11_12_obj-hd_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 204
+        width: 162
+        height: 308
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Map11_12_obj-hd_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 269
+        width: 147
+        height: 243
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Map11_12_obj-hd_4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 43
+        width: 226
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Map11_12_obj-hd_5
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 193
+        width: 188
+        height: 317
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Map11_12_obj-hd_6
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 202
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Map11_12_obj-hd_7
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 159
+        height: 216
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

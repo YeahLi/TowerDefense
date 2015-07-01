@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 62785dff4a3a94a06b2b905302f9b6b7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lightingtower_0
+    21300002: lightingtower_1
+    21300004: lightingtower_2
+    21300006: lightingtower_3
+    21300008: lightingtower_4
+    21300010: lightingtower_5
+    21300012: lightingtower_6
+    21300014: lightingtower_7
+    21300016: lightingtower_8
+    21300018: lightingtower_9
+    21300020: lightingtower_10
+    21300022: lightingtower_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: lightingtower_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 412
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lightingtower_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 309
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lightingtower_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 125
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lightingtower_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 9
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lightingtower_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 11
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lightingtower_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 118
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lightingtower_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 419
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lightingtower_7
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 317
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lightingtower_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 217
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lightingtower_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 25
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lightingtower_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 49
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: lightingtower_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 428
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

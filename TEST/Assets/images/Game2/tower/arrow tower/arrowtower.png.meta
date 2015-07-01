@@ -1,0 +1,982 @@
+fileFormatVersion: 2
+guid: 7c665481450fa4c24aa0aa5da6dd644d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: arrowtower_0
+    21300002: arrowtower_1
+    21300004: arrowtower_2
+    21300006: arrowtower_3
+    21300008: arrowtower_4
+    21300010: arrowtower_5
+    21300012: arrowtower_6
+    21300014: arrowtower_7
+    21300016: arrowtower_8
+    21300018: arrowtower_9
+    21300020: arrowtower_10
+    21300022: arrowtower_11
+    21300024: arrowtower_12
+    21300026: arrowtower_13
+    21300028: arrowtower_14
+    21300030: arrowtower_15
+    21300032: arrowtower_16
+    21300034: arrowtower_17
+    21300036: arrowtower_18
+    21300038: arrowtower_19
+    21300040: arrowtower_20
+    21300042: arrowtower_21
+    21300044: arrowtower_22
+    21300046: arrowtower_23
+    21300048: arrowtower_24
+    21300050: arrowtower_25
+    21300052: arrowtower_26
+    21300054: arrowtower_27
+    21300056: arrowtower_28
+    21300058: arrowtower_29
+    21300060: arrowtower_30
+    21300062: arrowtower_31
+    21300064: arrowtower_32
+    21300066: arrowtower_33
+    21300068: arrowtower_34
+    21300070: arrowtower_35
+    21300072: arrowtower_36
+    21300074: arrowtower_37
+    21300076: arrowtower_38
+    21300078: arrowtower_39
+    21300080: arrowtower_40
+    21300082: arrowtower_41
+    21300084: arrowtower_42
+    21300086: arrowtower_43
+    21300088: arrowtower_44
+    21300090: arrowtower_45
+    21300092: arrowtower_46
+    21300094: arrowtower_47
+    21300096: arrowtower_48
+    21300098: arrowtower_49
+    21300100: arrowtower_50
+    21300102: arrowtower_51
+    21300104: arrowtower_52
+    21300106: arrowtower_53
+    21300108: arrowtower_54
+    21300110: arrowtower_55
+    21300112: arrowtower_56
+    21300114: arrowtower_57
+    21300116: arrowtower_58
+    21300118: arrowtower_59
+    21300120: arrowtower_60
+    21300122: arrowtower_61
+    21300124: arrowtower_62
+    21300126: arrowtower_63
+    21300128: arrowtower_64
+    21300130: arrowtower_65
+    21300132: arrowtower_66
+    21300134: arrowtower_67
+    21300136: arrowtower_68
+    21300138: arrowtower_69
+    21300140: arrowtower_70
+    21300142: arrowtower_71
+    21300144: arrowtower_72
+    21300146: arrowtower_73
+    21300148: arrowtower_74
+    21300150: arrowtower_75
+    21300152: arrowtower_76
+    21300154: arrowtower_77
+    21300156: arrowtower_78
+    21300158: arrowtower_79
+    21300160: arrowtower_80
+    21300162: arrowtower_81
+    21300164: arrowtower_82
+    21300166: arrowtower_83
+    21300168: arrowtower_84
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: arrowtower_0
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1961
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1961
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_2
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1961
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1965
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_4
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1965
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_5
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1971
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_6
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1887
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_7
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1721
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_8
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1721
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1604
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1621
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1634
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_12
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1641
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_13
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1641
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_14
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1642
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_15
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1647
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_16
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1646
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1563
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_18
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1567
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_19
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1568
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_20
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1568
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_21
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1488
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_22
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1473
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_23
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1128
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 995
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_25
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1208
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1061
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1099
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_28
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1102
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_29
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1019
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_30
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1012
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1014
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_32
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1018
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_33
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 855
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_34
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 791
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_35
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 748
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_36
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 750
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_37
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 753
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_38
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 759
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_39
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 628
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_40
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 636
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_41
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 648
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 671
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 716
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_44
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 659
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_45
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 666
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_46
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 670
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_47
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 580
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_48
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 406
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_49
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 414
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_50
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 411
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_51
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 446
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_52
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 508
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 291
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_54
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 301
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 310
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_56
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 329
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_57
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 321
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_58
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 329
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_59
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 333
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_60
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1051
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_61
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1117
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_62
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 975
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_63
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 983
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1845
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1508
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_66
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1521
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_67
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1535
+        width: 84
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_68
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1468
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_69
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1272
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_70
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1277
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_71
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1293
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_72
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1293
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_73
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1215
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_74
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1199
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1145
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_76
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1159
+        width: 81
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_77
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1171
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_78
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1195
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_79
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1185
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_80
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1188
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_81
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1197
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_82
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1067
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_83
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1081
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrowtower_84
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1104
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

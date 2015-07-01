@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: 912fc7fb8057d4ea59188d1bb5e08cfa
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: deer1_0
+    21300002: deer1_1
+    21300004: deer1_2
+    21300006: deer1_3
+    21300008: deer1_4
+    21300010: deer1_5
+    21300012: deer1_6
+    21300014: deer1_7
+    21300016: deer1_8
+    21300018: deer1_9
+    21300020: deer1_10
+    21300022: deer1_11
+    21300024: deer1_12
+    21300026: deer1_13
+    21300028: deer1_14
+    21300030: deer1_15
+    21300032: deer1_16
+    21300034: deer1_17
+    21300036: deer1_18
+    21300038: deer1_19
+    21300040: deer1_20
+    21300042: deer1_21
+    21300044: deer1_22
+    21300046: deer1_23
+    21300048: deer1_24
+    21300050: deer1_25
+    21300052: deer1_26
+    21300054: deer1_27
+    21300056: deer1_28
+    21300058: deer1_29
+    21300060: deer1_30
+    21300062: deer1_31
+    21300064: deer1_32
+    21300066: deer1_33
+    21300068: deer1_34
+    21300070: deer1_35
+    21300072: deer1_36
+    21300074: deer1_37
+    21300076: deer1_38
+    21300078: deer1_39
+    21300080: deer1_40
+    21300082: deer1_41
+    21300084: deer1_42
+    21300086: deer1_43
+    21300088: deer1_44
+    21300090: deer1_45
+    21300092: deer1_46
+    21300094: deer1_47
+    21300096: deer1_48
+    21300098: deer1_49
+    21300100: deer1_50
+    21300102: deer1_51
+    21300104: deer1_52
+    21300106: deer1_53
+    21300108: deer1_54
+    21300110: deer1_55
+    21300112: deer1_56
+    21300114: deer1_57
+    21300116: deer1_58
+    21300118: deer1_59
+    21300120: deer1_60
+    21300122: deer1_61
+    21300124: deer1_62
+    21300126: deer1_63
+    21300128: deer1_64
+    21300130: deer1_65
+    21300132: deer1_66
+    21300134: deer1_67
+    21300136: deer1_68
+    21300138: deer1_69
+    21300140: deer1_70
+    21300142: deer1_71
+    21300144: deer1_72
+    21300146: deer1_73
+    21300148: deer1_74
+    21300150: deer1_75
+    21300152: deer1_76
+    21300154: deer1_77
+    21300156: deer1_78
+    21300158: deer1_79
+    21300160: deer1_80
+    21300162: deer1_81
+    21300164: deer1_82
+    21300166: deer1_83
+    21300168: deer1_84
+    21300170: deer1_85
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: deer1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 405
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 405
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 398
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 400
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 396
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_5
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 391
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 387
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 383
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_8
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 379
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 376
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 370
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_11
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 453
+        width: 81
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_12
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 452
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_13
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 439
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_14
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 430
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_15
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 413
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 304
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 303
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 299
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 300
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 298
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 296
+        width: 53
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_22
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 291
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 289
+        width: 56
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_24
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 286
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_25
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 285
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_26
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 279
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_27
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 364
+        width: 53
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_28
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 364
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 355
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_30
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 350
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_31
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 336
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 204
+        width: 55
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 203
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 201
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 202
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 202
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 199
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_38
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 195
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_39
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 196
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_40
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 191
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_41
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 192
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_42
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 189
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_43
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 275
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_44
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 276
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_45
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 269
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_46
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 267
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_47
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 257
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 106
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 105
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_50
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 102
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 102
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_52
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 100
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 102
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_54
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 100
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_55
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 101
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_56
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 97
+        width: 52
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_57
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 187
+        width: 78
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_58
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 183
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_59
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 182
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_60
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 180
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_61
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 180
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_62
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 98
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_63
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 94
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_64
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 94
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_65
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 124
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_66
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 123
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_67
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 123
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_68
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 54
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_70
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3
+        width: 57
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_71
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_72
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 4
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_73
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 3
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_74
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_75
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_76
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 3
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_77
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 3
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_78
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_79
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 4
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_80
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 62
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_81
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 64
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_82
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 63
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_83
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 4
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_84
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 5
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer1_85
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 4
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

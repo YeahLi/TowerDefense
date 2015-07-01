@@ -1,0 +1,20 @@
+GameManager:
+initMoney:60,initLife:10,Low Marks:500,Medium Marks:1000,High Marks:1500
+Enemy Parameters:
+Name:faster,Life:72,Speed:2,Reward:4,Harm:1
+Name:boss,Life:1500,Speed:1,Reward:140,Harm:4
+Name:hardest,Life:960,Speed:1,Reward:80,Harm:2
+Name:largehealth,Life:720,Speed:0.8,Reward:32,Harm:2
+Name:harder,Life:480,Speed:1,Reward:40,Harm:2
+Name:fastest,Life:54,Speed:3,Reward:5,Harm:1
+Name:easier,Life:36,Speed:1,Reward:2,Harm:1
+Name:easiest,Life:8,Speed:0.8,Reward:15,Harm:0
+Name:revive,Life:144,Speed:1,Reward:8,Harm:1
+Name:fast,Life:72,Speed:1.5,Reward:6,Harm:1
+Name:medium,Life:72,Speed:0.8,Reward:4,Harm:1
+Tower Parameters:
+Type:LightTower,Power:8 12 18 27,AttackArea:1.7 2 2.3 2.6,AttackTime:0.9 0.8 0.75 0.7,Cost:12 24 48 96
+Type:HeavyTower,Power:14 21 32 48,AttackArea:1.6 1.8 2 2.2,AttackTime:1.2 1.05 0.9 0.8,Cost:18 36 72 120
+Type:PoisonTower,Power:5 8 11 15,AttackArea:1.7 2 2.3 2.6,AttackTime:0.9 0.8 0.7 0.6,Cost:15 30 60 110
+Type:IceTower,Power:4 5 7 9,AttackArea:1.6 1.8 2 2.2,AttackTime:1 1 1 1,Cost:10 20 40 80
+Type:ElecTower,Power:11 17 27 40,AttackArea:2 2.3 2.6 2.9,AttackTime:0.1 0.1 0.1 0.1,Cost:18 36 72 120

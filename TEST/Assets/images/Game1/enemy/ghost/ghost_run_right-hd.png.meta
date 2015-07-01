@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 11d0b21edae3041669c5b3630c569d60
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ghost_run_right-hd_0
+    21300002: ghost_run_right-hd_1
+    21300004: ghost_run_right-hd_2
+    21300006: ghost_run_right-hd_3
+    21300008: ghost_run_right-hd_4
+    21300010: ghost_run_right-hd_5
+    21300012: ghost_run_right-hd_6
+    21300014: ghost_run_right-hd_7
+    21300016: ghost_run_right-hd_8
+    21300018: ghost_run_right-hd_9
+    21300020: ghost_run_right-hd_10
+    21300022: ghost_run_right-hd_11
+    21300024: ghost_run_right-hd_12
+    21300026: ghost_run_right-hd_13
+    21300028: ghost_run_right-hd_14
+    21300030: ghost_run_right-hd_15
+    21300032: ghost_run_right-hd_16
+    21300034: ghost_run_right-hd_17
+    21300036: ghost_run_right-hd_18
+    21300038: ghost_run_right-hd_19
+    21300040: ghost_run_right-hd_20
+    21300042: ghost_run_right-hd_21
+    21300044: ghost_run_right-hd_22
+    21300046: ghost_run_right-hd_23
+    21300048: ghost_run_right-hd_24
+    21300050: ghost_run_right-hd_25
+    21300052: ghost_run_right-hd_26
+    21300054: ghost_run_right-hd_27
+    21300056: ghost_run_right-hd_28
+    21300058: ghost_run_right-hd_29
+    21300060: ghost_run_right-hd_30
+    21300062: ghost_run_right-hd_31
+    21300064: ghost_run_right-hd_32
+    21300066: ghost_run_right-hd_33
+    21300068: ghost_run_right-hd_34
+    21300070: ghost_run_right-hd_35
+    21300072: ghost_run_right-hd_36
+    21300074: ghost_run_right-hd_37
+    21300076: ghost_run_right-hd_38
+    21300078: ghost_run_right-hd_39
+    21300080: ghost_run_right-hd_40
+    21300082: ghost_run_right-hd_41
+    21300084: ghost_run_right-hd_42
+    21300086: ghost_run_right-hd_43
+    21300088: ghost_run_right-hd_44
+    21300090: ghost_run_right-hd_45
+    21300092: ghost_run_right-hd_46
+    21300094: ghost_run_right-hd_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ghost_run_right-hd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 730
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 730
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 730
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 730
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 730
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 730
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 584
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 584
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 584
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 584
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_19
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 584
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_20
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 584
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 438
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 438
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 438
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_25
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 438
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 438
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 438
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_33
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_34
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_37
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_38
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_39
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_40
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_41
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_46
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ghost_run_right-hd_47
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

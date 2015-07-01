@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd2162ca441f44d179d250d83edd4425
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - anim: {instanceID: 0}
+  - m_currentNode: {instanceID: 0}
+  - m_spawn: {instanceID: 0}
+  - healthbar: {fileID: 100002, guid: 4cf0b52963f5243c7ad6d52b54dd2305, type: 2}
+  - runSound: {instanceID: 0}
+  - dieSound: {instanceID: 0}
+  - castlehit: {fileID: 8300000, guid: 4370f7de5ed70433f95af4d85326a488, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

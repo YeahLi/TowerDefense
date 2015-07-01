@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 0107ac7889172468c96846800c514696
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: deer2_0
+    21300002: deer2_1
+    21300004: deer2_2
+    21300006: deer2_3
+    21300008: deer2_4
+    21300010: deer2_5
+    21300012: deer2_6
+    21300014: deer2_7
+    21300016: deer2_8
+    21300018: deer2_9
+    21300020: deer2_10
+    21300022: deer2_11
+    21300024: deer2_12
+    21300026: deer2_13
+    21300028: deer2_14
+    21300030: deer2_15
+    21300032: deer2_16
+    21300034: deer2_17
+    21300036: deer2_18
+    21300038: deer2_19
+    21300040: deer2_20
+    21300042: deer2_21
+    21300044: deer2_22
+    21300046: deer2_23
+    21300048: deer2_24
+    21300050: deer2_25
+    21300052: deer2_26
+    21300054: deer2_27
+    21300056: deer2_28
+    21300058: deer2_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: deer2_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 416
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 418
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 419
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 418
+        width: 51
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 455
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 455
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_6
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 426
+        width: 54
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 320
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 323
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 324
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 397
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 397
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 338
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 338
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 338
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 312
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 222
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 227
+        width: 56
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 228
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 250
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 280
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 279
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 126
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 126
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 131
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 133
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 29
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 29
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 37
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deer2_29
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 38
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

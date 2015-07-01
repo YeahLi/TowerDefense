@@ -1,0 +1,1180 @@
+fileFormatVersion: 2
+guid: df13045fd4aa14bb98ed98871b73d7c3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire1_0
+    21300002: fire1_1
+    21300004: fire1_2
+    21300006: fire1_3
+    21300008: fire1_4
+    21300010: fire1_5
+    21300012: fire1_6
+    21300014: fire1_7
+    21300016: fire1_8
+    21300018: fire1_9
+    21300020: fire1_10
+    21300022: fire1_11
+    21300024: fire1_12
+    21300026: fire1_13
+    21300028: fire1_14
+    21300030: fire1_15
+    21300032: fire1_16
+    21300034: fire1_17
+    21300036: fire1_18
+    21300038: fire1_19
+    21300040: fire1_20
+    21300042: fire1_21
+    21300044: fire1_22
+    21300046: fire1_23
+    21300048: fire1_24
+    21300050: fire1_25
+    21300052: fire1_26
+    21300054: fire1_27
+    21300056: fire1_28
+    21300058: fire1_29
+    21300060: fire1_30
+    21300062: fire1_31
+    21300064: fire1_32
+    21300066: fire1_33
+    21300068: fire1_34
+    21300070: fire1_35
+    21300072: fire1_36
+    21300074: fire1_37
+    21300076: fire1_38
+    21300078: fire1_39
+    21300080: fire1_40
+    21300082: fire1_41
+    21300084: fire1_42
+    21300086: fire1_43
+    21300088: fire1_44
+    21300090: fire1_45
+    21300092: fire1_46
+    21300094: fire1_47
+    21300096: fire1_48
+    21300098: fire1_49
+    21300100: fire1_50
+    21300102: fire1_51
+    21300104: fire1_52
+    21300106: fire1_53
+    21300108: fire1_54
+    21300110: fire1_55
+    21300112: fire1_56
+    21300114: fire1_57
+    21300116: fire1_58
+    21300118: fire1_59
+    21300120: fire1_60
+    21300122: fire1_61
+    21300124: fire1_62
+    21300126: fire1_63
+    21300128: fire1_64
+    21300130: fire1_65
+    21300132: fire1_66
+    21300134: fire1_67
+    21300136: fire1_68
+    21300138: fire1_69
+    21300140: fire1_70
+    21300142: fire1_71
+    21300144: fire1_72
+    21300146: fire1_73
+    21300148: fire1_74
+    21300150: fire1_75
+    21300152: fire1_76
+    21300154: fire1_77
+    21300156: fire1_78
+    21300158: fire1_79
+    21300160: fire1_80
+    21300162: fire1_81
+    21300164: fire1_82
+    21300166: fire1_83
+    21300168: fire1_84
+    21300170: fire1_85
+    21300172: fire1_86
+    21300174: fire1_87
+    21300176: fire1_88
+    21300178: fire1_89
+    21300180: fire1_90
+    21300182: fire1_91
+    21300184: fire1_92
+    21300186: fire1_93
+    21300188: fire1_94
+    21300190: fire1_95
+    21300192: fire1_96
+    21300194: fire1_97
+    21300196: fire1_98
+    21300198: fire1_99
+    21300200: fire1_100
+    21300202: fire1_101
+    21300204: fire1_102
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fire1_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 957
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 954
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 952
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 953
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 953
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 952
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_6
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 952
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_7
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 950
+        width: 102
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_8
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 951
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_9
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 950
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_10
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 950
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 879
+        width: 78
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 875
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 874
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 872
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 873
+        width: 100
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_16
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 872
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_17
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 870
+        width: 99
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_18
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 870
+        width: 100
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_19
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 869
+        width: 101
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_20
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 869
+        width: 100
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 795
+        width: 96
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 793
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 791
+        width: 105
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 787
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_25
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 785
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_26
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 783
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_27
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 782
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_28
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 783
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_29
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 780
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_30
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 779
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 704
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 701
+        width: 113
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_33
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 697
+        width: 115
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_34
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 696
+        width: 99
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 695
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_36
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 691
+        width: 101
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_37
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 692
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_38
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 691
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_39
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 690
+        width: 102
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 613
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_41
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 612
+        width: 113
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_42
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 608
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_43
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 605
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_44
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 605
+        width: 132
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_45
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 602
+        width: 95
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_46
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 598
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_47
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 597
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_48
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 595
+        width: 106
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 521
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 519
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_51
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 515
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_52
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 513
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_53
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 510
+        width: 129
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_54
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 511
+        width: 103
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_55
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 504
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_56
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 506
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_57
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 503
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_58
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 426
+        width: 88
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 425
+        width: 106
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_60
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 418
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_61
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 418
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_62
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 419
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_63
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 413
+        width: 106
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_64
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 410
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_65
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 410
+        width: 97
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_66
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 408
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_67
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 328
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_68
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 328
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 322
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_70
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 320
+        width: 91
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_71
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 322
+        width: 108
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_72
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 316
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_73
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 312
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_74
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 311
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_75
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 310
+        width: 114
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_76
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 228
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_77
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 228
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_78
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 226
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_79
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 222
+        width: 104
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_80
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 223
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_81
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 217
+        width: 91
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_82
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 213
+        width: 103
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_83
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 212
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_84
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 213
+        width: 106
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 127
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_86
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 127
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_87
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 123
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_88
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 122
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_89
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 119
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_90
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 113
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_91
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 113
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_92
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 115
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_93
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 113
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_94
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 26
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_95
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 25
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_96
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 25
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_97
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 24
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_98
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 16
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_99
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 13
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_100
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 11
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_101
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 13
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire1_102
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 9
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 991e61042104a4ad891b0e5e4fc78415
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hud-hd_0
+    21300002: hud-hd_1
+    21300004: hud-hd_2
+    21300006: hud-hd_3
+    21300008: hud-hd_4
+    21300010: hud-hd_5
+    21300012: hud-hd_6
+    21300014: hud-hd_7
+    21300016: hud-hd_8
+    21300018: hud-hd_9
+    21300020: hud-hd_10
+    21300022: hud-hd_11
+    21300024: hud-hd_12
+    21300026: hud-hd_13
+    21300028: hud-hd_14
+    21300030: hud-hd_15
+    21300032: hud-hd_16
+    21300034: hud-hd_17
+    21300036: hud-hd_18
+    21300038: hud-hd_19
+    21300040: hud-hd_20
+    21300042: hud-hd_21
+    21300044: hud-hd_22
+    21300046: hud-hd_23
+    21300048: hud-hd_24
+    21300050: hud-hd_25
+    21300052: hud-hd_26
+    21300054: hud-hd_27
+    21300056: hud-hd_28
+    21300058: hud-hd_29
+    21300060: hud-hd_30
+    21300062: hud-hd_31
+    21300064: hud-hd_32
+    21300066: hud-hd_33
+    21300068: hud-hd_34
+    21300070: hud-hd_35
+    21300072: hud-hd_36
+    21300074: hud-hd_37
+    21300076: hud-hd_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hud-hd_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 471
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 470
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 472
+        width: 108
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 440
+        width: 176
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 435
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_5
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 434
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_6
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 433
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_7
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 498
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_8
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 422
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_9
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 420
+        width: 96
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_10
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 432
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 472
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 428
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 475
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 433
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 300
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_16
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 300
+        width: 111
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_17
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 290
+        width: 109
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_18
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 291
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 290
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_20
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 290
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 325
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 325
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 161
+        width: 110
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 161
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_25
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 161
+        width: 110
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_26
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 161
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_27
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 189
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_28
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 105
+        width: 53
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 161
+        width: 109
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_30
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 161
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_31
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 162
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_32
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 226
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 32
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_34
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 32
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_35
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 32
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 32
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_37
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 32
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud-hd_38
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 32
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

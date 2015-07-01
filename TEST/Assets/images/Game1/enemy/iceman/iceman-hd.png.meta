@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: f33d76e0471ca45609a02e1136f648d7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: iceman-hd_0
+    21300002: iceman-hd_1
+    21300004: iceman-hd_2
+    21300006: iceman-hd_3
+    21300008: iceman-hd_4
+    21300010: iceman-hd_5
+    21300012: iceman-hd_6
+    21300014: iceman-hd_7
+    21300016: iceman-hd_8
+    21300018: iceman-hd_9
+    21300020: iceman-hd_10
+    21300022: iceman-hd_11
+    21300024: iceman-hd_12
+    21300026: iceman-hd_13
+    21300028: iceman-hd_14
+    21300030: iceman-hd_15
+    21300032: iceman-hd_16
+    21300034: iceman-hd_17
+    21300036: iceman-hd_18
+    21300038: iceman-hd_19
+    21300040: iceman-hd_20
+    21300042: iceman-hd_21
+    21300044: iceman-hd_22
+    21300046: iceman-hd_23
+    21300048: iceman-hd_24
+    21300050: iceman-hd_25
+    21300052: iceman-hd_26
+    21300054: iceman-hd_27
+    21300056: iceman-hd_28
+    21300058: iceman-hd_29
+    21300060: iceman-hd_30
+    21300062: iceman-hd_31
+    21300064: iceman-hd_32
+    21300066: iceman-hd_33
+    21300068: iceman-hd_34
+    21300070: iceman-hd_35
+    21300072: iceman-hd_36
+    21300074: iceman-hd_37
+    21300076: iceman-hd_38
+    21300078: iceman-hd_39
+    21300080: iceman-hd_40
+    21300082: iceman-hd_41
+    21300084: iceman-hd_42
+    21300086: iceman-hd_43
+    21300088: iceman-hd_44
+    21300090: iceman-hd_45
+    21300092: iceman-hd_46
+    21300094: iceman-hd_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: iceman-hd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_6
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 876
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 730
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 730
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 730
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_11
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 730
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 730
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_13
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 730
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 584
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_16
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 584
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_17
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 584
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 584
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_19
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 584
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_20
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 584
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 438
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_23
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 438
+        width: 146
+        height: 146
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 438
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_25
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 438
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_26
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 438
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 438
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_29
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_31
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_32
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_33
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_34
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 292
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_37
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_38
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_39
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_40
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_41
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 146
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_43
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_45
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_46
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: iceman-hd_47
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

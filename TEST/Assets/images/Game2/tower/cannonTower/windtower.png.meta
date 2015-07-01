@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 0896ed4369c8743298880fc514e94eee
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: windtower_0
+    21300002: windtower_1
+    21300004: windtower_2
+    21300006: windtower_3
+    21300008: windtower_4
+    21300010: windtower_5
+    21300012: windtower_6
+    21300014: windtower_7
+    21300016: windtower_8
+    21300018: windtower_9
+    21300020: windtower_10
+    21300022: windtower_11
+    21300024: windtower_12
+    21300026: windtower_13
+    21300028: windtower_14
+    21300030: windtower_15
+    21300032: windtower_16
+    21300034: windtower_17
+    21300036: windtower_18
+    21300038: windtower_19
+    21300040: windtower_20
+    21300042: windtower_21
+    21300044: windtower_22
+    21300046: windtower_23
+    21300048: windtower_24
+    21300050: windtower_25
+    21300052: windtower_26
+    21300054: windtower_27
+    21300056: windtower_28
+    21300058: windtower_29
+    21300060: windtower_30
+    21300062: windtower_31
+    21300064: windtower_32
+    21300066: windtower_33
+    21300068: windtower_34
+    21300070: windtower_35
+    21300072: windtower_36
+    21300074: windtower_37
+    21300076: windtower_38
+    21300078: windtower_39
+    21300080: windtower_40
+    21300082: windtower_41
+    21300084: windtower_42
+    21300086: windtower_43
+    21300088: windtower_44
+    21300090: windtower_45
+    21300092: windtower_46
+    21300094: windtower_47
+    21300096: windtower_48
+    21300098: windtower_49
+    21300100: windtower_50
+    21300102: windtower_51
+    21300104: windtower_52
+    21300106: windtower_53
+    21300108: windtower_54
+    21300110: windtower_55
+    21300112: windtower_56
+    21300114: windtower_57
+    21300116: windtower_58
+    21300118: windtower_59
+    21300120: windtower_60
+    21300122: windtower_61
+    21300124: windtower_62
+    21300126: windtower_63
+    21300128: windtower_64
+    21300130: windtower_65
+    21300132: windtower_66
+    21300134: windtower_67
+    21300136: windtower_68
+    21300138: windtower_69
+    21300140: windtower_70
+    21300142: windtower_71
+    21300144: windtower_72
+    21300146: windtower_73
+    21300148: windtower_74
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: windtower_0
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 768
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_1
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 724
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_2
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 773
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_3
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 728
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_4
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 688
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_5
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 648
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_6
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 615
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 598
+        width: 86
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 554
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 501
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 512
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 445
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 368
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 451
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 522
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_16
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 566
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_17
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 646
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_18
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 691
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_19
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 753
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 705
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 426
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_22
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 622
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 478
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_24
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 518
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 526
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_26
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 627
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_27
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 598
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_28
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 504
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_29
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1409
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_30
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1392
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_31
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1477
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_32
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1486
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_33
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1387
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_34
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1355
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_35
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1275
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_36
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1192
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_37
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1300
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_38
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1303
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_39
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1316
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_40
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1338
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_41
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1245
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_42
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1228
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_43
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1221
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_44
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1144
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_45
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1156
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_46
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1199
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_47
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1112
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1079
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_49
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1081
+        width: 84
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1021
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_51
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1168
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 992
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_53
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1697
+        width: 100
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_54
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1766
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_55
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1782
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_56
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1820
+        width: 93
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_57
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1579
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_58
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1675
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1684
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1624
+        width: 98
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_61
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1684
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_62
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1588
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_63
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1543
+        width: 96
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_64
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1592
+        width: 89
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1510
+        width: 94
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1439
+        width: 102
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_67
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1570
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_68
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1261
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_69
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1289
+        width: 84
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_70
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1347
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_71
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1352
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_72
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1051
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_73
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 994
+        width: 101
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: windtower_74
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 978
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/LoadingGame.cs">
+    <Files>
+      <File FileName="Assets/script/GameManager.cs" Line="94" Column="2" />
+      <File FileName="Assets/script/TowerButton.cs" Line="160" Column="84" />
+      <File FileName="Assets/script/TowerButtonNew.cs" Line="131" Column="12" />
+      <File FileName="Assets/script/LoadingGame.cs" Line="82" Column="53" />
+      <File FileName="Assets/script/settingBtnController.cs" Line="32" Column="20" />
+      <File FileName="Assets/script/Settings.cs" Line="83" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

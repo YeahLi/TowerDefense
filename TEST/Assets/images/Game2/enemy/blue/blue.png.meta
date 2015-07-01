@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: 0ab8238103e9041068beac2e2274cefe
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blue_0
+    21300002: blue_1
+    21300004: blue_2
+    21300006: blue_3
+    21300008: blue_4
+    21300010: blue_5
+    21300012: blue_6
+    21300014: blue_7
+    21300016: blue_8
+    21300018: blue_9
+    21300020: blue_10
+    21300022: blue_11
+    21300024: blue_12
+    21300026: blue_13
+    21300028: blue_14
+    21300030: blue_15
+    21300032: blue_16
+    21300034: blue_17
+    21300036: blue_18
+    21300038: blue_19
+    21300040: blue_20
+    21300042: blue_21
+    21300044: blue_22
+    21300046: blue_23
+    21300048: blue_24
+    21300050: blue_25
+    21300052: blue_26
+    21300054: blue_27
+    21300056: blue_28
+    21300058: blue_29
+    21300060: blue_30
+    21300062: blue_31
+    21300064: blue_32
+    21300066: blue_33
+    21300068: blue_34
+    21300070: blue_35
+    21300072: blue_36
+    21300074: blue_37
+    21300076: blue_38
+    21300078: blue_39
+    21300080: blue_40
+    21300082: blue_41
+    21300084: blue_42
+    21300086: blue_43
+    21300088: blue_44
+    21300090: blue_45
+    21300092: blue_46
+    21300094: blue_47
+    21300096: blue_48
+    21300098: blue_49
+    21300100: blue_50
+    21300102: blue_51
+    21300104: blue_52
+    21300106: blue_53
+    21300108: blue_54
+    21300110: blue_55
+    21300112: blue_56
+    21300114: blue_57
+    21300116: blue_58
+    21300118: blue_59
+    21300120: blue_60
+    21300122: blue_61
+    21300124: blue_62
+    21300126: blue_63
+    21300128: blue_64
+    21300130: blue_65
+    21300132: blue_66
+    21300134: blue_67
+    21300136: blue_68
+    21300138: blue_69
+    21300140: blue_70
+    21300142: blue_71
+    21300144: blue_72
+    21300146: blue_73
+    21300148: blue_74
+    21300150: blue_75
+    21300152: blue_76
+    21300154: blue_77
+    21300156: blue_78
+    21300158: blue_79
+    21300160: blue_80
+    21300162: blue_81
+    21300164: blue_82
+    21300166: blue_83
+    21300168: blue_84
+    21300170: blue_85
+    21300172: blue_86
+    21300174: blue_87
+    21300176: blue_88
+    21300178: blue_89
+    21300180: blue_90
+    21300182: blue_91
+    21300184: blue_92
+    21300186: blue_93
+    21300188: blue_94
+    21300190: blue_95
+    21300192: blue_96
+    21300194: blue_97
+    21300196: blue_98
+    21300198: blue_99
+    21300200: blue_100
+    21300202: blue_101
+    21300204: blue_102
+    21300206: blue_103
+    21300208: blue_104
+    21300210: blue_105
+    21300212: blue_106
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: blue_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 931
+        width: 118
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 931
+        width: 117
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 928
+        width: 112
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 929
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_4
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 936
+        width: 108
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_5
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 926
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_6
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 930
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_7
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 945
+        width: 103
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_8
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 925
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 829
+        width: 103
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 836
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 829
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 828
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 841
+        width: 102
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 859
+        width: 105
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_15
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 854
+        width: 106
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_16
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 864
+        width: 102
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_17
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 826
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 729
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 737
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_20
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 746
+        width: 104
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 764
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_22
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 754
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_23
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 760
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_24
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 753
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_25
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 795
+        width: 105
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_26
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 726
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 647
+        width: 101
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 646
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 652
+        width: 102
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_30
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 669
+        width: 102
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_31
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 683
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_32
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 674
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_33
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 666
+        width: 101
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_34
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 696
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_35
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 629
+        width: 104
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 566
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_37
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 583
+        width: 98
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_38
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 587
+        width: 99
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 604
+        width: 101
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_40
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 614
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 584
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_42
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 587
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_43
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 611
+        width: 103
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_44
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 545
+        width: 103
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 489
+        width: 99
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_46
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 502
+        width: 98
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 509
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 524
+        width: 98
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_49
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 526
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_50
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 509
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_51
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 513
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_52
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 532
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_53
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 448
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_54
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 442
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 393
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_56
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 402
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 439
+        width: 99
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_58
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 447
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_59
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 448
+        width: 100
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_60
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 423
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_61
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 413
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_62
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 449
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 323
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_64
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 335
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_65
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 366
+        width: 94
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_66
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 366
+        width: 95
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_67
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 364
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_68
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 334
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_69
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 320
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_70
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 352
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_71
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 367
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_72
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 347
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 237
+        width: 89
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_74
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 247
+        width: 90
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_75
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 276
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_76
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 280
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_77
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 275
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_78
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 247
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_79
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 234
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_80
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 266
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_81
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 278
+        width: 91
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_82
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 258
+        width: 90
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_83
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 144
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_84
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 158
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_85
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 194
+        width: 91
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_86
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 196
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_87
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 189
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_88
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 149
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_89
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 196
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_90
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 205
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_91
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 189
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 73
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_93
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 108
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_94
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 112
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_95
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 114
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_96
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 116
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_97
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 65
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_98
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 137
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_99
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 73
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_100
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 14
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 17
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_102
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 21
+        width: 84
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_103
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 26
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_104
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_105
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 6
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blue_106
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4
+        width: 78
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

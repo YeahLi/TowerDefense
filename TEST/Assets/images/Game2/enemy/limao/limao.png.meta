@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 824903e8b6d8046d786b150b915dd16d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: limao_0
+    21300002: limao_1
+    21300004: limao_2
+    21300006: limao_3
+    21300008: limao_4
+    21300010: limao_5
+    21300012: limao_6
+    21300014: limao_7
+    21300016: limao_8
+    21300018: limao_9
+    21300020: limao_10
+    21300022: limao_11
+    21300024: limao_12
+    21300026: limao_13
+    21300028: limao_14
+    21300030: limao_15
+    21300032: limao_16
+    21300034: limao_17
+    21300036: limao_18
+    21300038: limao_19
+    21300040: limao_20
+    21300042: limao_21
+    21300044: limao_22
+    21300046: limao_23
+    21300048: limao_24
+    21300050: limao_25
+    21300052: limao_26
+    21300054: limao_27
+    21300056: limao_28
+    21300058: limao_29
+    21300060: limao_30
+    21300062: limao_31
+    21300064: limao_32
+    21300066: limao_33
+    21300068: limao_34
+    21300070: limao_35
+    21300072: limao_36
+    21300074: limao_37
+    21300076: limao_38
+    21300078: limao_39
+    21300080: limao_40
+    21300082: limao_41
+    21300084: limao_42
+    21300086: limao_43
+    21300088: limao_44
+    21300090: limao_45
+    21300092: limao_46
+    21300094: limao_47
+    21300096: limao_48
+    21300098: limao_49
+    21300100: limao_50
+    21300102: limao_51
+    21300104: limao_52
+    21300106: limao_53
+    21300108: limao_54
+    21300110: limao_55
+    21300112: limao_56
+    21300114: limao_57
+    21300116: limao_58
+    21300118: limao_59
+    21300120: limao_60
+    21300122: limao_61
+    21300124: limao_62
+    21300126: limao_63
+    21300128: limao_64
+    21300130: limao_65
+    21300132: limao_66
+    21300134: limao_67
+    21300136: limao_68
+    21300138: limao_69
+    21300140: limao_70
+    21300142: limao_71
+    21300144: limao_72
+    21300146: limao_73
+    21300148: limao_74
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: limao_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 904
+        width: 69
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 916
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 916
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 922
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 930
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 930
+        width: 79
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_6
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 932
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 934
+        width: 69
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 936
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_9
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 937
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 784
+        width: 68
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 802
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 812
+        width: 79
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 827
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 836
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_15
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 836
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_16
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 840
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_17
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 845
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_18
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 847
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 670
+        width: 71
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 684
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 688
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 718
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 731
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 743
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 746
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_26
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 752
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_27
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 756
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_28
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 762
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 579
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_30
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 590
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 622
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_32
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 622
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_33
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 640
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_34
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 652
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_35
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 656
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_36
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 672
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 562
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 481
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_39
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 491
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_40
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 527
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_41
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 531
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_42
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 546
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_43
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 562
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_44
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 570
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 455
+        width: 77
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_46
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 458
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_47
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 383
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_48
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 434
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_49
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 437
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_50
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 457
+        width: 78
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_51
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 475
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 349
+        width: 63
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 350
+        width: 77
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_54
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 357
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 286
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_56
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 341
+        width: 67
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_57
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 348
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_58
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 371
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 242
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_60
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 251
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_61
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 259
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_62
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 189
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_63
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 251
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_64
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 258
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 141
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 143
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_67
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 152
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_68
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 162
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_69
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 162
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 85
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_71
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 43
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_72
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 52
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_73
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 65
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: limao_74
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 65
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

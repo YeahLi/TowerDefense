@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3db774e1a58864e21bb3233ba9c93654
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_startNode: {instanceID: 0}
+  - xmldata: {instanceID: 0}
+  - gamewin: {instanceID: 0}
+  - begin: {fileID: 8300000, guid: 92977d1ab6aa34977993a9c7fe2d922a, type: 3}
+  - vectroy: {fileID: 8300000, guid: 6ace001655026481e879f961f13ee413, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
